@@ -40,7 +40,9 @@ Analyze the quality, accuracy, and depth of the generated responses.
 
 # clearer/basic prompt
 <img width="904" height="750" alt="image" src="https://github.com/user-attachments/assets/a8e78177-a592-40c1-b8d7-da190ea46ba0" />
+
 ## Conclusion
+
 Broad / unstructured prompts → inconsistent, less reliable results.
 Refined prompts → significantly improve accuracy, depth, and relevance.
 Best strategies:
